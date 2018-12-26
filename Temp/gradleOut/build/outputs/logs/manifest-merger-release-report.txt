@@ -33,9 +33,9 @@ ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main
 		ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
 application
 ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-19:17
-MERGED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:30:5-44:19
-MERGED from [:arcore_unity:] /home/user/.android/build-cache/055fb026bb7c52914a2e1241de4af347f168bb20/output/AndroidManifest.xml:5:5-6:19
-MERGED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:7:5-9:19
+MERGED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:30:5-44:19
+MERGED from [:arcore_unity:] /home/user/.android/build-cache/72b7d33ac01f9d1b8b705173b9373c4bd74866be/output/AndroidManifest.xml:5:5-6:19
+MERGED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:7:5-9:19
 	android:label
 		ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:4:92-124
 	android:icon
@@ -118,10 +118,10 @@ ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main
 		ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:18:16-49
 uses-sdk
 ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-72
-MERGED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:26:5-28:41
-MERGED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:6:5-43
-MERGED from [:unityandroidpermissions:] /home/user/.android/build-cache/c8d897d967003892c421a43257e9059b27eb377e/output/AndroidManifest.xml:11:5-13:41
-MERGED from [:unitygar:] /home/user/.android/build-cache/a2b7064b864b5e0186ba6334042e2db7dea374e0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:26:5-28:41
+MERGED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:6:5-43
+MERGED from [:unityandroidpermissions:] /home/user/.android/build-cache/fa1a270e348528610b43f094255c7464b8c6f9b4/output/AndroidManifest.xml:11:5-13:41
+MERGED from [:unitygar:] /home/user/.android/build-cache/021f42d0e0509114589896fd6686388797288fcb/output/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:20:40-69
 		INJECTED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml
@@ -159,25 +159,25 @@ ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main
 	android:name
 		ADDED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:26:17-80
 activity#com.google.ar.core.InstallActivity
-ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:33:9-39:80
+ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:33:9-39:80
 	android:excludeFromRecents
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:36:13-46
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:36:13-46
 	android:launchMode
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:38:13-43
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:38:13-43
 	android:exported
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:37:13-37
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:37:13-37
 	android:configChanges
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:35:13-74
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:35:13-74
 	android:theme
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:39:13-77
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:39:13-77
 	android:name
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:34:13-62
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:34:13-62
 meta-data#com.google.ar.core.min_apk_version
-ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:41:9-43:41
+ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:41:9-43:41
 	android:value
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:43:13-38
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:43:13-38
 	android:name
-		ADDED from [:arcore_client:] /home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/AndroidManifest.xml:42:13-62
+		ADDED from [:arcore_client:] /home/user/.android/build-cache/5ddd8f0e8a349b310f32c6a0a4b79642119a933e/output/AndroidManifest.xml:42:13-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12 reason: third_party.arcore.ar.unity has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
@@ -185,14 +185,14 @@ IMPLIED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/ma
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-27:12 reason: third_party.arcore.ar.unity requested WRITE_EXTERNAL_STORAGE
 meta-data#com.google.ar.core
-ADDED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:8:9-81
+ADDED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:8:9-81
 	android:value
-		ADDED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:8:54-78
+		ADDED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:8:54-78
 	android:name
-		ADDED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:8:20-53
+		ADDED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:8:20-53
 uses-feature#android.hardware.camera.ar
-ADDED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:10:5-86
+ADDED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:10:5-86
 	android:required
-		ADDED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:10:61-84
+		ADDED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:10:61-84
 	android:name
-		ADDED from [:google_ar_required:] /home/user/.android/build-cache/2774a07c3e6b2254055b336cbbfac849aa9f7f17/output/AndroidManifest.xml:10:19-60
+		ADDED from [:google_ar_required:] /home/user/.android/build-cache/dfc95f407ca4d6527363b10f7c81ffc3698a32ae/output/AndroidManifest.xml:10:19-60
