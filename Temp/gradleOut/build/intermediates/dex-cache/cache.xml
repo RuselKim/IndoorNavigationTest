@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/user/.android/build-cache/440a301a0f4c47a4ca78efdcaa6b0f8d3d8e2e69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c9d63502d38010cb65fa6954093a48debad8f034">
+        <dex dex="/home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_4172704a32052eaf217c7a79bebbb6a0268a8225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="87ff44892d280487bb557109e57ec3fb74662b84">
+        <dex dex="/home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_b208cd87f1352df658d07c617af314d2a8295d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/.android/build-cache/a2b7064b864b5e0186ba6334042e2db7dea374e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3b08b853fe85764387602ff10decaf2b449f4ea2">
+        <dex dex="/home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_2b207d915885411a1152038b92bec5d2786f26a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/.android/build-cache/c8d897d967003892c421a43257e9059b27eb377e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="be35cfb98dbf80214072c4eb41da843fb0d4400d">
+        <dex dex="/home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_e317bbb172435f0a6d0b8040f0b1f94541dd0edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/user/.android/build-cache/a2b7064b864b5e0186ba6334042e2db7dea374e0/output/jars/libs/tango_java_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="dac29b41332a170a55310a99e3e2f3058e3ac419">
+        <dex dex="/home/user/UnityProjects/IndoorNavigationTest/Temp/gradleOut/build/intermediates/pre-dexed/release/tango_java_lib_ca79d85570b6702d989b3c85bdadfa64dcd7ffc0.jar" />
+    </item>
+
+</items>
